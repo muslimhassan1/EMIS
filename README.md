@@ -1,1 +1,1 @@
-This is our Employee Management project
+# Employee Management Information System (EMIS)
